@@ -1,0 +1,12 @@
+For each of the following statements, you will be asked to enter a number, on the scale of 1 to 5, based on how much you agree with the statement. This will determine your level of motivation and will create personalized tips and tricks to increase your motivation and help you be the most productive version of yourself!
+
+Press 'Enter’ or ‘Return’ after you give your answer to each statement, based on how much you agree with the statement according to the following scale: 
+
+
+1 = I disagree.
+2 = I sort of disagree.
+3 = I neither disagree nor agree.
+4 = I sort of agree.
+5 = I agree.
+
+We hope you enjoy!
